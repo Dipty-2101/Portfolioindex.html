@@ -637,7 +637,7 @@ section { padding:110px 60px; }
   <div class="exp-list">
     <div class="exp-item reveal">
       <div class="exp-meta">
-        <div class="exp-date">Jan 2026 – Present</div>
+        <div class="exp-date">Jan 2026 – June 2026</div>
         <div class="exp-company">Sakred Creative Haus</div>
       </div>
       <div class="exp-content">
